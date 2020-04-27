@@ -1,0 +1,6 @@
+2020-04-19T05:24:24+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 69632 bytes) in C:\xampp\htdocs\Store\wp-content\themes\astra\functions.php on line 123
+
+2020-04-19T22:04:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Store\wp-includes\Requests\Transport\cURL.php on line 117
+
+2020-04-19T22:04:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Store\wp-content\plugins\wpforms-lite\includes\admin\importers\class-contact-form-7.php on line 583
+
